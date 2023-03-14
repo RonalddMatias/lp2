@@ -1,3 +1,3 @@
 # lp2
 
-Repositório destinado à ca+deiras LP2
+Repositório destinado à cadeira LP2.
