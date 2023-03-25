@@ -1,4 +1,4 @@
-# Compiled class file
+		# Compiled class file
 *.class
 
 # Log file
@@ -24,3 +24,4 @@ hs_err_pid*
 /.metadata/
 *.project
 lab01/src/dirlididi.py
+lab01/.settings
